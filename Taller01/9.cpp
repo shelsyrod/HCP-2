@@ -44,7 +44,7 @@ int main(){
 			}
             	}
             std::cout << std::endl;
-	}//cierra for
+	}
 }
 
-}//cierra main
+}
