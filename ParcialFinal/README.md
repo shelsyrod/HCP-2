@@ -16,7 +16,7 @@ En este repositorio se encuentra:
 
 ## Desarrollo ⚙️
 
-- Se hizo una implemetacion en Python (.ipynb)
+- Se hizo una implemetacion en Python (Parcial3.ipynb)
 
 1. Se importan los modulos necesarios para la implementacion
 2. Se leen los datos del dataset seleccionado
