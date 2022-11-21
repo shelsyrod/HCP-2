@@ -67,6 +67,7 @@ Herramientas que utilizamos para el proyecto
 
 * https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
 * https://eigen.tuxfamily.org/index.php?title=Main_Page
+* https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
 ## Autor ✒️
 
