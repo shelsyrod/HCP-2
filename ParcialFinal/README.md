@@ -10,6 +10,8 @@ En este repositorio se encuentra:
 
 - El codigo en python de un cuaderno notebook (Parcial3.ipynb)
 
+**Link Codigo Python**  - [Colab](https://drive.google.com/file/d/18pbiR1fy1isYys_Z-fCWyoBY6-Ve8sJB/view?usp=sharing)
+
 - Codigo fuentes del Programa LR en C++ 
 
 - El documento (Readme.md) que presenta el contenido 
