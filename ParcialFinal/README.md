@@ -8,7 +8,7 @@ En este repositorio se encuentra:
 
 - El dataset con las caracteristicas importantes (cancer.csv): Cuenta con 10 caracteristicas importantes del dataset original y la variable a predecir, en este dataset la variable objetivo se encunetra en la ultima posicion, para trabajar con este en el framework Qt Creator
 
-- El codigo en python de un cuaderno notebook (.ipynb)
+- El codigo en python de un cuaderno notebook (Parcial3.ipynb)
 
 - Codigo fuentes del Programa LR en C++ 
 
