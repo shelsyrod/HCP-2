@@ -2,21 +2,36 @@
 
 En este repositorio se encuentra el trabajo, el cual corresponde a el parcial final de la materia High Computing programing (HPC - Metricas de rendimientos).
 En este repositorio se encuentra:
-- El dataset original 
-- El  datasetimplemetado, 
-- El codigo en python en un cuaderno notebook (.ipynb), 
-- codigo fuentes del Programa LR en C++, 
+- El dataset original (data.csv)
+- El dataset con las caracteristicas importantes (cancer.csv)
+- El codigo en python de un cuaderno notebook (.ipynb)
+- Codigo fuentes del Programa LR en C++ 
 - El documento (Readme.md) que presenta el contenido 
 
 ## Desarrollo ⚙️
 
-Se hizo una implemetacion en C++
+Se hizo una implemetacion en Python (.ipynb)
 
-1. Se crean funciones que permiten la lectura del archivo CSV
-2. Se normalizan los datos
-3. Se crean las funciones para hacer la regresion en C++
-4. Se implementa en python usando sklearn
-5. Se comparan los resultados obtenidos en cada implemetacion
+1. Se importan los modulos necesarios para la implementacion
+2. Se leen los datos del dataset seleccionado
+3. Se hace un analisis exploratorio de los datos
+4. Se normalizan los datos
+5. Se separan los datos de entrenamiento y de prueba
+6. Se entrena el modelo de regresion logistica
+7. Se aplican metricas para medir el rendimeino del modelo
+
+Se toma la decision de entrenar el modelo con otros datos
+
+5. Se separan los datos de entrenamiento y de prueba
+6. Se entrena el modelo de regresion logistica
+7. Se aplican metricas para medir el rendimeino del modelo
+
+8. Conclusiones de los modelos
+9. Referencias 
+
+A su vez se hace una implementacioon en c++
+
+1. Lectura del archivo
 
 ## Conclusiones 📋
 
@@ -33,6 +48,7 @@ Herramientas que utilizamos para el proyecto
 ## Fuentes de informacion 📖
 
 * https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+* https://eigen.tuxfamily.org/index.php?title=Main_Page
 
 ## Autor ✒️
 
