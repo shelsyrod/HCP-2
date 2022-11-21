@@ -14,7 +14,7 @@ En este repositorio se encuentra:
 
 - Codigo fuentes del Programa LR en C++
 
-  Link Codigo Qt - [C++](https://drive.google.com/drive/folders/10yH5o6RZcQMhwSifKfBAcXa7mkDRXn8f?usp=sharing)
+  Link Codigo Qt - [c++](https://drive.google.com/drive/folders/10yH5o6RZcQMhwSifKfBAcXa7mkDRXn8f?usp=sharing)
 
 - El documento (Readme.md) que presenta el contenido 
 
