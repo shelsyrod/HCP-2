@@ -12,7 +12,9 @@ En este repositorio se encuentra:
 
   Link Codigo Python - [Colab](https://drive.google.com/file/d/18pbiR1fy1isYys_Z-fCWyoBY6-Ve8sJB/view?usp=sharing)
 
-- Codigo fuentes del Programa LR en C++ 
+- Codigo fuentes del Programa LR en C++
+
+  Link Codigo Qt - [C++](https://drive.google.com/drive/folders/10yH5o6RZcQMhwSifKfBAcXa7mkDRXn8f?usp=sharing)
 
 - El documento (Readme.md) que presenta el contenido 
 
