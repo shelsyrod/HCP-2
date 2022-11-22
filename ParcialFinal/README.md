@@ -1,6 +1,6 @@
 # Regresion Logistica
 
-En este repositorio se encuentra el trabajo, el cual corresponde a el parcial final de la materia High Computing programing (HPC - Metricas de rendimientos).
+En este repositorio se encuentra el trabajo, el cual corresponde a el parcial final de la materia high performance computing (HPC - Metricas de rendimientos).
 
 En este repositorio se encuentra:
 
